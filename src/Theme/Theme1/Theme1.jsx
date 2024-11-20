@@ -18,7 +18,7 @@ const Theme1 = (props) => {
         <>
             <Box id="section-to-print" ref={componentRef}>
                 <Box _dark={{ border: '1px solid white' }} id="theme1">
-                    {/* Personal Info  */}
+                  
                     <header id='info' className='text-center mt-2'>
                         <Heading as='h2' size='2xl' className='mb-2'>
                             {name}
